@@ -6,3 +6,4 @@ Personal edits to [agarick](https://github.com/agarick)'s [agave font](https://g
 
 * Colon, semi-colon, and comma have been realigned to the baseline
 * Decoration on uppercase "V" has been removed
+* Underscore length has been shortened
